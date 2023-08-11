@@ -2,7 +2,7 @@
 
 import { Sequelize } from "sequelize";  
 
-const db = new Sequelize('db_blogmern', 'root', 'contraseña',{
+const db = new Sequelize('db_blogmern', 'root', 'dimotre22',{
     host: 'localhost',
     dialect: 'mysql'
 })
